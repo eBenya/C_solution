@@ -1,0 +1,15 @@
+I do not decision;
+All you need to doo - it's make algorithm for find each second number.
+
+//////////////////////////////////////////////////////////////////////////////////////
+int numberCard = (numberCard);
+int modul = 100;
+int devider = 10;
+int secDigSummX2 = 0;
+while ( (numberCard % modul) != 0){
+	secDigSummX2 = secDigSummX2 + 2*((numberCard % modul) / devider);
+	modul *= 100;
+	devider *= 100;
+	}
+//////////////////////////////////////////////////////////////////////////////////////
+std::cout << (numberCard % 100) / 10 << std::endl;
