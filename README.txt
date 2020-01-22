@@ -1,1 +1,0 @@
-This directory contains solution examples different tasks in books and courses which i encountered.
