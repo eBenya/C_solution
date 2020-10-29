@@ -1,0 +1,38 @@
+cs50 Harvard - http://cs50.tv/2017/fall/
+Лекции - https://docs.cs50.net/2017/fall/notes/1/lecture1.html#compiling
+cs50 IDE  - https://docs.c9.io/docs/
+playbenya012@gmail.com
+https://javarush.ru/quests/lectures/questharvardcs50.level01.lecture19
+
+
+git commit -a -m "add cs50 folder"
+
+
+
+
+
+present lesson - https://javarush.ru/quests/lectures/questharvardcs50.level01.lecture04
+
+
+pset1: check50 cs50/2017/x/greedy
+pset2: check50 cs50/2017/x/initials/less
+
+
+https://youtu.be/n0VG0Hp26lM wс3 + кастомки в описании
+
+
+http://compusers.ru/otzyv-o-luchshej-sborke-spustya-mesyac-polzovaniya-dejstvitelno-li-ona-luchshaya/#___Huanan_Gaming_Deluxe
+куллер:
+https://www.onlinetrade.ru/catalogue/kulery_dlya_protsessorov-c1492/pccooler/kuler_dlya_protsessora_pccooler_gi_x5r_red-1406855.html
+
+
+#include <stdio.h>int 
+main(){     
+	int x = 10;     
+	while( x --> 0 ){       
+		printf("%d ", x);     
+	}
+}
+
+
+https://www.youtube.com/watch?v=MRkD_0guEag
