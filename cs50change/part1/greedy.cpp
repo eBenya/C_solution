@@ -45,8 +45,8 @@ void greedyAlg(int money){
 int main(){
     float money;
     do
-    money = round( (get_float("how many money?\n")*100) );	//вычисление центов
-    while ((money < 0) || ( fmod(money*100, 100) > 0) );	//и проверка на верность ввода!
+    money = round( (get_float("how many money?\n")*100) );	//РІС‹С‡РёСЃР»РµРЅРёРµ С†РµРЅС‚РѕРІ
+    while ((money < 0) || ( fmod(money*100, 100) > 0) );	//Рё РїСЂРѕРІРµСЂРєР° РЅР° РІРµСЂРЅРѕСЃС‚СЊ РІРІРѕРґР°!
     greedyAlg(money);
    // printf("end\n");
 }
